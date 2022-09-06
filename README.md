@@ -32,12 +32,11 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original-wordmark.svg" alt="javascript" width="40" height="40"/> </a>
-</p>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <a href="https://www.html.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <a href="https://css-tricks.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</p><hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdessamieAllouane&show_icons=true&locale=en&layout=compact" alt="AbdessamieAllouane" /></p>
 
-
-
-
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdessamieAllouane&show_icons=true&locale=en" alt="AbdessamieAllouane" /></p><hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdessamieAllouane" alt="AbdessamieAllouane" /></a> </p>

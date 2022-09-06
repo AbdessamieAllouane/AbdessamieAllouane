@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to get more knowledge by collaborating with other likminds and developers 
 
-- 🖧 also I'm preparing for my **HCIA Datacom (networking)Certification 
+- 🖧 also I'm preparing for my **HCIA Datacom (networking)Certification**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, Datacomunications and Networking**
 

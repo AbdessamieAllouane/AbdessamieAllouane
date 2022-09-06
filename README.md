@@ -36,7 +36,7 @@
   <a href="https://www.html.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <a href="https://css-tricks.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 </div><hr>
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdessamieAllouane&show_icons=true&locale=en&layout=compact" alt="AbdessamieAllouane" /></div><br><br><br><br><br><br><br><br><br><br><br><br>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdessamieAllouane&show_icons=true&locale=en&layout=compact" alt="AbdessamieAllouane" /></div><br><br><br><br><br>
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdessamieAllouane&show_icons=true&locale=en" alt="AbdessamieAllouane" /></div><hr>
 <div align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdessamieAllouane" alt="AbdessamieAllouane" /></a> </div>
